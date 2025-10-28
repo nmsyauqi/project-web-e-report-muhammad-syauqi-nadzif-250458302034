@@ -1,0 +1,5 @@
+fike authen
+ketika input usrnm passw
+masuk k hlmn 
+cke sesuai database
+autentikasi.php
